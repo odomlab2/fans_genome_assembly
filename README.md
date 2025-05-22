@@ -1,4 +1,6 @@
-# fans_genome_assembly
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15489638.svg)](https://doi.org/10.5281/zenodo.15489638)
+
+# Code from: De novo genome assembly of Ansell’s mole-rat (Fukomys anselli)
 
 Code used to process, assemble, and annotate the Ansell's mole-rat genome in an LSF HPC cluster.
 
