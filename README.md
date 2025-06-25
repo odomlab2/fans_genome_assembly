@@ -2,7 +2,9 @@
 
 # Code from: De novo genome assembly of Ansell’s mole-rat (*Fukomys anselli*)
 
-Code used to process, assemble, and annotate the Ansell's mole-rat genome in an LSF HPC cluster.
+Code used to process, assemble, and annotate the Ansell's mole-rat genome in an LSF HPC cluster in [Bekavac *et al.* (2025)](https://doi.org/10.1101/2025.06.03.657636):
+
+- Bekavac M, Coimbra R, Busa VF, Behm M, Wagner RE, Goncalves A, Begall S, Frye M, Odom DT (2025) De novo genome assembly of Ansell’s mole-rat (*Fukomys anselli*). *bioRxiv*. https://doi.org/10.1101/2025.06.03.657636
 
 ## De novo assembly workflow
 
